@@ -9,3 +9,4 @@ Prepare for Summer 2027 software engineering and AI internships
  - Week 4: React
  - Week 5: Backend Development, Spring Boot
  - Week 6: Applied AI
+Progress will be documented weekly
