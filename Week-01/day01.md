@@ -9,8 +9,8 @@
 ### What I Learned:
  - How GitHub READMEs work
  - How to improve repository presentation and professionalism
-### Future Project Ideas
+### Future Project Ideas:
  - Campus Dining Allergen Assistant
-### Next Steps
+### Next Steps:
  - Java Review
  - Git Practice
