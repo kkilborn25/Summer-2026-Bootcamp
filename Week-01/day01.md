@@ -10,7 +10,7 @@
  - How GitHub READMEs work
  - How to improve repository presentation and professionalism
 ### Future Project Ideas:
- - Campus Dining Allergen Assistant
+ - Allergen Assistant
 ### Next Steps:
  - Java Review
  - Git Practice
