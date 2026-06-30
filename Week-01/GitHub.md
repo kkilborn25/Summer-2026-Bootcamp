@@ -1,4 +1,4 @@
-# Day 1 - June 4, 2026
+# GitHub
 ### Time Spent
 3 hours
 ### Completed Tasks:
