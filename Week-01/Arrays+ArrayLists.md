@@ -1,4 +1,4 @@
-# Day 3 - June 18, 2026
+# Array and ArrayList Review
 ### Time Spent
 Hour and a Half
 ### Completed Tasks:
