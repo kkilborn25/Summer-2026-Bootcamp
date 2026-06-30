@@ -1,4 +1,4 @@
-# Day 2 - June 17, 2026
+# Java Basics Review
 ### Time Spent
 2 hours
 ### Completed Tasks:
